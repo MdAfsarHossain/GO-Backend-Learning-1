@@ -8,3 +8,5 @@ func main() {
 	fmt.Println("I am learning Go.")
 	fmt.Println("I am a Backend Developer")
 }
+
+// go run main.go
