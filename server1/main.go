@@ -15,3 +15,5 @@ func main() {
 
 	http.ListenAndServe(":5000", nil)
 }
+
+// go run server1/main.go
